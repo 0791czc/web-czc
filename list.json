@@ -1,8 +1,8 @@
 {
 	"code":200,
 	"msg":"成功",
-	"data":{
-		"c1":{
+	"data":[
+		{
 			"text":"初一课程",
 			"imgUrl":"https://0791czc.github.io/web-czc/c1.png",
 			"con":[
@@ -15,7 +15,7 @@
 				}
 			]
 		},
-		"c2":{
+		{
 			"text":"初二课程",
 			"imgUrl":"https://0791czc.github.io/web-czc/c2.png",
 			"con":[
@@ -28,7 +28,7 @@
 				}
 			]
 		},
-		"c3":{
+		{
 			"text":"初三课程",
 			"imgUrl":"https://0791czc.github.io/web-czc/c3.png",
 			"con":[
@@ -41,5 +41,5 @@
 				}
 			]
 		}
-	}
+	]
 }

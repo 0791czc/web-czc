@@ -7,10 +7,12 @@
 			"text":"初一课程",
 			"imgUrl":"https://0791czc.github.io/web-czc/c1.png",
 			"con":[
-				{
+				{	
+					"conI":"0",
 					"text":"初一历史",
 					"imgUrl":"https://0791czc.github.io/web-czc/c14.jpg"
 				},{
+					"conI":"1",
 					"text":"初一英语",
 					"imgUrl":"https://0791czc.github.io/web-czc/c12.jpg"
 				}
@@ -22,9 +24,11 @@
 			"imgUrl":"https://0791czc.github.io/web-czc/c2.png",
 			"con":[
 				{
+					"conI":"2",
 					"text":"初二历史",
 					"imgUrl":"https://0791czc.github.io/web-czc/c15.jpg"
 				},{
+					"conI":"3",
 					"text":"初二数学",
 					"imgUrl":"https://0791czc.github.io/web-czc/c13.jpg"
 				}
@@ -36,9 +40,11 @@
 			"imgUrl":"https://0791czc.github.io/web-czc/c3.png",
 			"con":[
 				{
+					"conI":"4",
 					"text":"初三历史",
 					"imgUrl":"https://0791czc.github.io/web-czc/c17.jpg"
 				},{
+					"conI":"5",
 					"text":"文学名著",
 					"imgUrl":"https://0791czc.github.io/web-czc/c16.jpg"
 				}

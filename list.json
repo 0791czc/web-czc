@@ -56,6 +56,7 @@
 			"id":"c1ls",
 			"con":[
 				{
+					"id":"c1ls1",
 					"title":"初一历史（上）",
 					"fm":"https://0791czc.github.io/web-czc/fm.jpg",
 					"videoSrc":"http://wxsnsdy.tc.qq.com/105/20210/snsdyvideodownload?filekey=30280201010421301f0201690402534804102ca905ce620b1241b726bc41dcff44e00204012882540400&bizid=1023&hy=SH&fileparam=302c020101042530230204136ffd93020457e3c4ff02024ef202031e8d7f02030f42400204045a320a0201000400",
@@ -64,6 +65,7 @@
 					"sskc":"初一历史"
 				},
 				{
+					"id":"c1ls2",
 					"title":"初一历史（下）",
 					"fm":"https://0791czc.github.io/web-czc/fm.jpg",
 					"videoSrc":"http://wxsnsdy.tc.qq.com/105/20210/snsdyvideodownload?filekey=30280201010421301f0201690402534804102ca905ce620b1241b726bc41dcff44e00204012882540400&bizid=1023&hy=SH&fileparam=302c020101042530230204136ffd93020457e3c4ff02024ef202031e8d7f02030f42400204045a320a0201000400",
@@ -77,6 +79,7 @@
 			"id":"c1yy",
 			"con":[
 				{
+					"id":"c1yy1",
 					"title":"初一英语（上）",
 					"fm":"https://0791czc.github.io/web-czc/fm.jpg",
 					"videoSrc":"http://wxsnsdy.tc.qq.com/105/20210/snsdyvideodownload?filekey=30280201010421301f0201690402534804102ca905ce620b1241b726bc41dcff44e00204012882540400&bizid=1023&hy=SH&fileparam=302c020101042530230204136ffd93020457e3c4ff02024ef202031e8d7f02030f42400204045a320a0201000400",
@@ -85,6 +88,7 @@
 					"sskc":"初一英语"
 				},
 				{
+					"id":"c1yy2",
 					"title":"初一英语（下）",
 					"fm":"https://0791czc.github.io/web-czc/fm.jpg",
 					"videoSrc":"http://wxsnsdy.tc.qq.com/105/20210/snsdyvideodownload?filekey=30280201010421301f0201690402534804102ca905ce620b1241b726bc41dcff44e00204012882540400&bizid=1023&hy=SH&fileparam=302c020101042530230204136ffd93020457e3c4ff02024ef202031e8d7f02030f42400204045a320a0201000400",
@@ -98,6 +102,7 @@
 			"id":"c2ls",
 			"con":[
 				{
+					"id":"c2ls1",
 					"title":"初二历史（上）",
 					"fm":"https://0791czc.github.io/web-czc/fm.jpg",
 					"videoSrc":"http://wxsnsdy.tc.qq.com/105/20210/snsdyvideodownload?filekey=30280201010421301f0201690402534804102ca905ce620b1241b726bc41dcff44e00204012882540400&bizid=1023&hy=SH&fileparam=302c020101042530230204136ffd93020457e3c4ff02024ef202031e8d7f02030f42400204045a320a0201000400",
@@ -106,6 +111,7 @@
 					"sskc":"初二历史"
 				},
 				{
+					"id":"c2ls2",
 					"title":"初二历史（下）",
 					"fm":"https://0791czc.github.io/web-czc/fm.jpg",
 					"videoSrc":"http://wxsnsdy.tc.qq.com/105/20210/snsdyvideodownload?filekey=30280201010421301f0201690402534804102ca905ce620b1241b726bc41dcff44e00204012882540400&bizid=1023&hy=SH&fileparam=302c020101042530230204136ffd93020457e3c4ff02024ef202031e8d7f02030f42400204045a320a0201000400",
@@ -119,6 +125,7 @@
 			"id":"c2sx",
 			"con":[
 				{
+					"id":"c2sx1",
 					"title":"初二数学（上）",
 					"fm":"https://0791czc.github.io/web-czc/fm.jpg",
 					"videoSrc":"http://wxsnsdy.tc.qq.com/105/20210/snsdyvideodownload?filekey=30280201010421301f0201690402534804102ca905ce620b1241b726bc41dcff44e00204012882540400&bizid=1023&hy=SH&fileparam=302c020101042530230204136ffd93020457e3c4ff02024ef202031e8d7f02030f42400204045a320a0201000400",
@@ -127,6 +134,7 @@
 					"sskc":"初二数学"
 				},
 				{
+					"id":"c2sx2",
 					"title":"初二数学（下）",
 					"fm":"https://0791czc.github.io/web-czc/fm.jpg",
 					"videoSrc":"http://wxsnsdy.tc.qq.com/105/20210/snsdyvideodownload?filekey=30280201010421301f0201690402534804102ca905ce620b1241b726bc41dcff44e00204012882540400&bizid=1023&hy=SH&fileparam=302c020101042530230204136ffd93020457e3c4ff02024ef202031e8d7f02030f42400204045a320a0201000400",
@@ -140,6 +148,7 @@
 			"id":"c3ls",
 			"con":[
 				{
+					"id":"c3ls1",
 					"title":"初三历史（上）",
 					"fm":"https://0791czc.github.io/web-czc/fm.jpg",
 					"videoSrc":"http://wxsnsdy.tc.qq.com/105/20210/snsdyvideodownload?filekey=30280201010421301f0201690402534804102ca905ce620b1241b726bc41dcff44e00204012882540400&bizid=1023&hy=SH&fileparam=302c020101042530230204136ffd93020457e3c4ff02024ef202031e8d7f02030f42400204045a320a0201000400",
@@ -148,6 +157,7 @@
 					"sskc":"初三历史"
 				},
 				{
+					"id":"c3ls2",
 					"title":"初三历史（下）",
 					"fm":"https://0791czc.github.io/web-czc/fm.jpg",
 					"videoSrc":"http://wxsnsdy.tc.qq.com/105/20210/snsdyvideodownload?filekey=30280201010421301f0201690402534804102ca905ce620b1241b726bc41dcff44e00204012882540400&bizid=1023&hy=SH&fileparam=302c020101042530230204136ffd93020457e3c4ff02024ef202031e8d7f02030f42400204045a320a0201000400",
@@ -161,6 +171,7 @@
 			"id":"wxmz",
 			"con":[
 				{
+					"id":"wxmz1",
 					"title":"海底两万里",
 					"fm":"https://0791czc.github.io/web-czc/fm.jpg",
 					"videoSrc":"http://wxsnsdy.tc.qq.com/105/20210/snsdyvideodownload?filekey=30280201010421301f0201690402534804102ca905ce620b1241b726bc41dcff44e00204012882540400&bizid=1023&hy=SH&fileparam=302c020101042530230204136ffd93020457e3c4ff02024ef202031e8d7f02030f42400204045a320a0201000400",
@@ -169,6 +180,7 @@
 					"sskc":"文学名著"
 				},
 				{
+					"id":"wxmz2",
 					"title":"水浒传",
 					"fm":"https://0791czc.github.io/web-czc/fm.jpg",
 					"videoSrc":"http://wxsnsdy.tc.qq.com/105/20210/snsdyvideodownload?filekey=30280201010421301f0201690402534804102ca905ce620b1241b726bc41dcff44e00204012882540400&bizid=1023&hy=SH&fileparam=302c020101042530230204136ffd93020457e3c4ff02024ef202031e8d7f02030f42400204045a320a0201000400",
